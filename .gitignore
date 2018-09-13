@@ -1,0 +1,7 @@
+.git
+dev/node_module/
+theme.lock
+tmp/
+config.yml
+package-lock.json
+.idea/
